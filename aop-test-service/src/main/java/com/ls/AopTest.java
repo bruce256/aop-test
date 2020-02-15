@@ -1,4 +1,4 @@
-package com.jd.ls;
+package com.ls;
 
 import com.alibaba.fastjson.JSON;
 import org.aspectj.lang.JoinPoint;
@@ -15,7 +15,7 @@ import org.springframework.stereotype.Component;
 public class AopTest {
 
 	//如果要设置多个切点可以使用 || 拼接
-	@Pointcut("execution(* com.jd.ls.Hello.*(..))")
+	@Pointcut("execution(* com.ls.Hello.*(..))")
 	private void anyMethod() {
 	}
 

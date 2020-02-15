@@ -1,4 +1,4 @@
-package com.jd.ls;
+package com.ls;
 
 
 import org.junit.Test;
