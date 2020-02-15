@@ -11,7 +11,7 @@
 
     <properties>
         <v.spring>4.3.0.RELEASE</v.spring>
-        <v.fastjson>1.1.36</v.fastjson>
+        <v.fastjson>1.2.25</v.fastjson>
     </properties>
 
     <dependencies>
