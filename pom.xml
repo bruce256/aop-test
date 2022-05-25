@@ -10,7 +10,7 @@
     <version>1.0-SNAPSHOT</version>
 
     <properties>
-        <v.spring>4.3.0.RELEASE</v.spring>
+        <v.spring>5.2.22.RELEASE</v.spring>
         <v.fastjson>1.1.36</v.fastjson>
     </properties>
 
